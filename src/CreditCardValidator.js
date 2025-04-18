@@ -21,7 +21,7 @@ function CreditCardValidator() {
   };
 
   return (
-    <div style={{ padding: '20px', fontFamily: 'monospace' }}>
+    <div style={{ padding: '20px', fontFamily: 'monospace', backgroundColor:'#f3f3f3'}}>
       <h2>Enter CreditCard:</h2>
       <input 
         type="text" 
